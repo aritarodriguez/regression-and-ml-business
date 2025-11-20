@@ -54,6 +54,6 @@ business_rf_dataset.xlsx – Dataset with customer & revenue metrics
 
 revenue_modeling.R – Main script (this file)
 
-🚀 Purpose
+ Purpose
 
 This project demonstrates a full end-to-end predictive modeling pipeline in R for business analytics, useful for forecasting, marketing optimization, and customer insights.
